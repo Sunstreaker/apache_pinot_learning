@@ -1,0 +1,37 @@
+{
+    "schemaName": "customerRecords",
+    "dimensionFieldSpecs": [
+      {
+        "name": "customerID",
+        "dataType": "INT"
+      },
+      {
+        "name": "firstName",
+        "dataType": "STRING"
+      },
+      {
+        "name": "lastName",
+        "dataType": "STRING"
+      },
+      {
+        "name": "gender",
+        "dataType": "STRING"
+      },
+      {
+        "name": "state",
+        "dataType": "STRING"
+      }
+    ],
+    "metricFieldSpecs": [
+      {
+        "name": "ratings",
+        "dataType": "FLOAT"
+      }
+    ],
+    "dateTimeFieldSpecs": [{
+      "name": "timestamp",
+      "dataType": "LONG",
+      "format" : "1:MILLISECONDS:EPOCH",
+      "granularity": "1:MILLISECONDS"
+    }]
+  }

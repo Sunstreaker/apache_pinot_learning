@@ -1,0 +1,12 @@
+{"customerID":205,"firstName":"Natalie","lastName":"Jones","gender":"Female","state":"NY","ratings":3.8,"timestamp":1571900400000}
+{"customerID":206,"firstName":"Steve","lastName":"Jones","gender":"Female","state":"CA","ratings":3.5,"timestamp":1571900400000}
+{"customerID":207,"firstName":"Bob","lastName":"Lewis","gender":"Male","state":"NY","ratings":3.2,"timestamp":1571900400000}
+{"customerID":208,"firstName":"Bob","lastName":"Lewis","gender":"Male","state":"DE","ratings":3.6,"timestamp":1572418800000}
+{"customerID":209,"firstName":"Jane","lastName":"Doe","gender":"Female","state":"CO","ratings":3.8,"timestamp":1572505200000}
+{"customerID":210,"firstName":"Jane","lastName":"Doe","gender":"Female","state":"AZ","ratings":3.5,"timestamp":1572505200000}
+{"customerID":211,"firstName":"Jane","lastName":"Doe","gender":"Female","state":"NY","ratings":3.2,"timestamp":1572678000000}
+{"customerID":212,"firstName":"Jane","lastName":"Doe","gender":"Female","state":"MN","ratings":3.6,"timestamp":1572678000000}
+{"customerID":213,"firstName":"John","lastName":"Doe","gender":"Male","state":"NY","ratings":3.8,"timestamp":1572678000000}
+{"customerID":214,"firstName":"John","lastName":"Doe","gender":"Male","state":"AZ","ratings":3.5,"timestamp":1572678000000}
+{"customerID":215,"firstName":"John","lastName":"Doe","gender":"Male","state":"CA","ratings":3.2,"timestamp":1572854400000}
+{"customerID":216,"firstName":"Nick","lastName":"Young","gender":"Male","state":"CA","ratings":3.6,"timestamp":1572854400000}
